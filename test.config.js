@@ -1,6 +1,7 @@
 undefined
 
 export default {
-  foo: "aabar",
-  code: "undefined\n\nexport default {\n  foo: \"abar\",\n  code: \"import fs from \\\"node:fs\\\"\\n\\nexport default {\\n  foo: \\\"bar\\\"\\n}\\n\"\n};\n"
+  foo: "aaabar",
+  code: "undefined\n\nexport default {\n  foo: \"abar\",\n  code: \"import fs from \\\"node:fs\\\"\\n\\nexport default {\\n  foo: \\\"bar\\\"\\n}\\n\"\n};\n",
+  _code: undefined
 };
