@@ -1,5 +1,5 @@
 import fs from "node:fs"
 
 export default {
-  foo: "bar"
+  foo: "".repeat(1)
 }
