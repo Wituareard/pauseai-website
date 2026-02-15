@@ -1,4 +1,4 @@
-const internal = "internal"
+import fs from "node:fs"
 
 export default {
   foo: "bar"
