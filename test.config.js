@@ -1,5 +1,6 @@
-import fs from "node:fs"
+undefined
 
 export default {
-  foo: "bar"
-}
+  foo: "rbar",
+  code: "import fs from \"node:fs\"\n\nexport default {\n  foo: \"bar\"\n}\n"
+};
